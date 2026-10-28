@@ -1,0 +1,14 @@
+[
+  {
+    "patient_id": "ee49d0ea",
+    "name": "C:\\Users\\USER\\AppData\\Local\\Python\\pythoncore-3.15-64\\python.exe c:/Users/USER/Desktop/patient_record_system/patient_record_system.py",
+    "date_of_birth": "clean",
+    "phone": "clear"
+  },
+  {
+    "patient_id": "cc0d33ca",
+    "name": "Benedict Cole",
+    "date_of_birth": "12/02/2008",
+    "phone": "0987654"
+  }
+]
